@@ -28,3 +28,5 @@ For organizer API endpoint table use DELETE
 
 
 Write SQL script to create the tables associated with the Database
+
+Create 7 tables in the DATABASE 
