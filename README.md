@@ -32,3 +32,5 @@ Write SQL script to create the tables associated with the Database
 Create 7 tables in the DATABASE 
 
 Using INSERT STATEMENTS populate the tables in the database with sample data.
+
+Display the tables with populated data as screenshots above.
