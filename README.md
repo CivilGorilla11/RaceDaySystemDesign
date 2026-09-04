@@ -12,4 +12,6 @@ Compile an API endpoint table for both user roles and organizer roles.
 
 For user API endpoint table use POST 
 
+For user API endpoint table use GET
+
 
