@@ -3,3 +3,5 @@ This is the system design for a raceday web application that is responsible for 
 
 Create Database ERD using business case.
 Provide minumum if 6 entities for the ERD.
+Assign primary keys and foreign keys where applicable to ensure database makes sense.
+
