@@ -16,5 +16,4 @@ For user API endpoint table use GET
 
 For user API endpoint table use PUT
 
-
-
+For user API endpoint table use DELETE 
