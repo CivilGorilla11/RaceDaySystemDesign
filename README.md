@@ -34,3 +34,6 @@ Create 7 tables in the DATABASE
 Using INSERT STATEMENTS populate the tables in the database with sample data.
 
 Display the tables with populated data as screenshots above.
+
+<img width="1919" height="574" alt="Screenshot 2026-09-04 at 12 53 32" src="https://github.com/user-attachments/assets/946e1070-45e1-4ddb-babf-72e4f2d9c13a" />
+
