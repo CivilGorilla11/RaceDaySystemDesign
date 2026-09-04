@@ -19,3 +19,7 @@ For user API endpoint table use PUT
 For user API endpoint table use DELETE 
 
 For organizer API endpoint table use POST
+
+For organizer API endpoint table use GET
+
+
