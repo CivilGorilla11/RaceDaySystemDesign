@@ -5,3 +5,6 @@ Create Database ERD using business case.
 Provide minumum if 6 entities for the ERD.
 Assign primary keys and foreign keys where applicable to ensure database makes sense.
 
+Define entity attributes and relationships between entities
+
+
