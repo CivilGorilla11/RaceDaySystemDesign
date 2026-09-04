@@ -24,3 +24,4 @@ For organizer API endpoint table use GET
 
 For organizer API endpoint table use PUT
 
+For organizer API endpoint table use DELETE
