@@ -14,4 +14,7 @@ For user API endpoint table use POST
 
 For user API endpoint table use GET
 
+For user API endpoint table use PUT
+
+
 
