@@ -25,3 +25,6 @@ For organizer API endpoint table use GET
 For organizer API endpoint table use PUT
 
 For organizer API endpoint table use DELETE
+
+
+Write SQL script to create the tables associated with the Database
