@@ -22,4 +22,5 @@ For organizer API endpoint table use POST
 
 For organizer API endpoint table use GET
 
+For organizer API endpoint table use PUT
 
